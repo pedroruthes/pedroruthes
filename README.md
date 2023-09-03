@@ -4,6 +4,7 @@ Desenvolvedor front-end de 19 anos, focado em criar experiências incríveis uti
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo_ruthes)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroruthes/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pedroruthes.com)
 
 ### Tecnologias utilizadas
 
