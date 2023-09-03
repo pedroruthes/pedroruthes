@@ -1,3 +1,3 @@
-![pedroruthes's Stats](https://github-readme-stats.vercel.app/api?username=pedroruthes&theme=react&show_icons=true&hide_border=true&count_private=true)
-![pedroruthes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroruthes&theme=react&hide_border=true)
-![pedroruthes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroruthes&theme=react&show_icons=true&hide_border=true&layout=compact)
+###Pedro Ruthes - Desenvolvedor Front-end
+
+Desenvolvedor front-end de 19 anos, focado em criar experiências incríveis utilizando ReactJS e React Native. Desde o ensino médio, venho explorando minha paixão pela programação e agora estou empenhado em aprimorar minhas habilidades enquanto curso Ciência da Computação. Sou um indivíduo criativo e inquieto, sempre em busca de aprendizado e entusiasmado em compartilhar meus conhecimentos como desenvolvedor web.
