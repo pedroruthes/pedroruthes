@@ -17,4 +17,4 @@ Desenvolvedor front-end de 19 anos, focado em criar experiências incríveis uti
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-E-mail para contato: pedrooruthes@gmail.com
+:envelope: pedrooruthes@gmail.com
