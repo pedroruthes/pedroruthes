@@ -1,6 +1,6 @@
-### Pedro Ruthes - Desenvolvedor Front-end
+### Pedro Ruthes - Desenvolvedor Full Stack
 
-Desenvolvedor front-end de 19 anos, focado em criar experiências incríveis utilizando ReactJS e React Native. Desde o ensino médio, venho explorando minha paixão pela programação e agora estou empenhado em aprimorar minhas habilidades enquanto curso Ciência da Computação. Sou um indivíduo criativo e inquieto, sempre em busca de aprendizado e entusiasmado em compartilhar meus conhecimentos como desenvolvedor web.
+Tenho 21 anos e sou desenvolvedor Full Stack com sólida experiência em ReactJS, React Native, Node.js e Python. Atualmente, estou cursando Ciência da Computação, onde aprofundo meus conhecimentos em tecnologia e programação. Trabalho como Técnico em Informática na Prefeitura de Brusque, o que me permite atuar diretamente na resolução de problemas tecnológicos e na melhoria de processos. Sou apaixonado por tecnologia, aprendizado contínuo e pelo desenvolvimento de soluções inovadoras que façam a diferença.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo_ruthes)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroruthes/)
@@ -16,4 +16,6 @@ Desenvolvedor front-end de 19 anos, focado em criar experiências incríveis uti
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
